@@ -1,4 +1,4 @@
-package com.reddit.restexample
+package com.reddit.redditInteraction
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

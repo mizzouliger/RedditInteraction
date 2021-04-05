@@ -1,4 +1,4 @@
-package com.reddit.restexample.models
+package com.reddit.redditInteraction.models
 
 data class User(
     val userID: Int,

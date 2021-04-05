@@ -1,4 +1,4 @@
-package com.reddit.restexample
+package com.reddit.redditInteraction
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication

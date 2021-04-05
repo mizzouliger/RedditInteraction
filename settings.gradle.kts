@@ -1,1 +1,1 @@
-rootProject.name = "restexample"
+rootProject.name = "redditInteraction"

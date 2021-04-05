@@ -1,4 +1,4 @@
-package com.reddit.restexample.models
+package com.reddit.redditInteraction.models
 
 // This class is for a reddit post
 data class Post(
